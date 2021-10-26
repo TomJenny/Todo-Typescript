@@ -1,0 +1,1 @@
+export const DOMAIN: string = "https://6170ffc523781c0017289c1e.mockapi.io/api/TodoListTypeScript" 
